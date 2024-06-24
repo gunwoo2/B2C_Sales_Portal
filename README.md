@@ -1,6 +1,7 @@
 # B2C 판매사이트 Portal
 고객을 위한 B2C 판매 사이트 Portal 로써 고객은 선택한 상품에 대해 주문 및 예약할 수 있다.
 
+
 ## Application Details
 |               |
 | ------------- |
