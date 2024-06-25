@@ -1,4 +1,4 @@
-# B2C 판매사이트 Portal
+# B2C 판매사이트 Portal [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/2njm-gRvg5k?si=_cRmEfF53j4y4sk9)
 고객을 위한 B2C 판매 사이트 Portal 로써 고객은 선택한 상품에 대해 주문 및 예약할 수 있다.
 
 
